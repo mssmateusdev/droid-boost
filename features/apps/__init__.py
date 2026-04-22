@@ -1,0 +1,2 @@
+"""Apps manager feature."""
+
